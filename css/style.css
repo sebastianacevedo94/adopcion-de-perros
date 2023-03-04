@@ -1,0 +1,9 @@
+body{background-color: blue;}
+
+h1{
+    text-align:center ;
+    font-size: 40px;
+    color:aliceblue;
+}
+
+.banner{width: 100px; height: 400px;}
